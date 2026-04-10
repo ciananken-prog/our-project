@@ -311,16 +311,16 @@
 
         .preview {
             padding: 100px 0;
-            background: var(--dark);
-            color: var(--white);
+            background: #F3F4F6;
+            color: var(--dark);
         }
 
         .preview .section-title {
-            color: var(--white);
+            color: var(--dark);
         }
 
         .preview .section-subtitle {
-            color: #9CA3AF;
+            color: #6B7280;
         }
 
         .dashboard {
@@ -358,7 +358,7 @@
         .day-card h4 {
             font-size: 14px;
             font-weight: 600;
-            color: var(--primary);
+            color: #2D3A28;
             margin-bottom: 12px;
         }
 
@@ -368,6 +368,7 @@
             padding: 8px 0;
             border-bottom: 1px solid #E5E7EB;
             font-size: 14px;
+            color: #2D3A28;
         }
 
         .day-item:last-child {
@@ -375,7 +376,7 @@
         }
 
         .day-time {
-            color: var(--gray);
+            color: #6B7280;
             min-width: 60px;
         }
 
@@ -393,6 +394,7 @@
         .budget-card h4, .checklist-card h4 {
             font-size: 14px;
             font-weight: 600;
+            color: #2D3A28;
             margin-bottom: 12px;
         }
 
