@@ -8,7 +8,7 @@
                 <p>Get personalized itineraries, budget plans, and discover hidden gems instantly.</p>
                 <div class="hero-buttons">
                     <button class="btn btn-primary" onclick="openModal('tripModal')">Start Planning</button>
-                    <button class="btn btn-secondary">View Demo</button>
+                    <button class="btn btn-secondary" onclick="window.location.href='demo.php'">View Demo</button>
                 </div>
             </div>
             <div class="hero-mock">
@@ -18,26 +18,26 @@
                     <div class="mock-dot green"></div>
                 </div>
                 <div class="mock-card">
-                    <h4>Paris, France - Day 1</h4>
-                    <p>Explore the City of Light</p>
+                    <h4>Siargao, Philippines - Day 1</h4>
+                    <p>Surfing Paradise of the PH</p>
                 </div>
                 <div class="mock-list">
                     <div class="mock-item">
                         <div class="mock-checkbox"></div>
-                        <span>9:00 AM - Eiffel Tower</span>
+                        <span>9:00 AM - Cloud 9 Surfing</span>
                     </div>
                     <div class="mock-item">
                         <div class="mock-checkbox"></div>
-                        <span>12:00 PM - Louvre Museum</span>
+                        <span>12:00 PM - Local Cafe Lunch</span>
                     </div>
                     <div class="mock-item">
                         <div class="mock-checkbox"></div>
-                        <span>3:00 PM - Montmartre</span>
+                        <span>3:00 PM - General Luna Beach</span>
                     </div>
                 </div>
                 <div class="mock-card" style="margin-top: 16px;">
-                    <h4>Budget: $850</h4>
-                    <p>Under budget by $150!</p>
+                    <h4>Budget: Php 10,000</h4>
+                    <p>Under budget by Php 5,000!</p>
                 </div>
             </div>
         </div>
@@ -121,7 +121,7 @@
                             <h4>Day 1 - Arrival & Exploration</h4>
                             <div class="day-item">
                                 <span class="day-time">9:00 AM</span>
-                                <span>Arrive at CDG Airport</span>
+                                <span>Arrive at Sayak Airport</span>
                             </div>
                             <div class="day-item">
                                 <span class="day-time">11:00 AM</span>
@@ -129,26 +129,26 @@
                             </div>
                             <div class="day-item">
                                 <span class="day-time">2:00 PM</span>
-                                <span>Eiffel Tower Visit</span>
+                                <span>Cloud 9 Surfing</span>
                             </div>
                             <div class="day-item">
                                 <span class="day-time">6:00 PM</span>
-                                <span>Seine River Cruise</span>
+                                <span>General Luna Beach Sunset</span>
                             </div>
                         </div>
                         <div class="day-card">
-                            <h4>Day 2 - Art & Culture</h4>
+                            <h4>Day 2 - Island Adventure</h4>
                             <div class="day-item">
                                 <span class="day-time">9:00 AM</span>
-                                <span>Louvre Museum</span>
+                                <span>Island Hopping Tour</span>
                             </div>
                             <div class="day-item">
                                 <span class="day-time">1:00 PM</span>
-                                <span>Lunch at Café</span>
+                                <span>Seafood Lunch at Daku Island</span>
                             </div>
                             <div class="day-item">
                                 <span class="day-time">3:00 PM</span>
-                                <span>Notre-Dame Visit</span>
+                                <span>Sugba Lagoon Adventure</span>
                             </div>
                         </div>
                     </div>
@@ -157,42 +157,42 @@
                             <h4>Budget Breakdown</h4>
                             <div class="budget-item">
                                 <span>Accommodation</span>
-                                <span>$350</span>
+                                <span>Php 4,500</span>
                             </div>
                             <div class="budget-item">
                                 <span>Food & Dining</span>
-                                <span>$200</span>
+                                <span>Php 2,000</span>
                             </div>
                             <div class="budget-item">
                                 <span>Activities</span>
-                                <span>$150</span>
+                                <span>Php 2,000</span>
                             </div>
                             <div class="budget-item">
                                 <span>Transport</span>
-                                <span>$100</span>
+                                <span>Php 1,500</span>
                             </div>
                             <div class="budget-item">
                                 <span>Total</span>
-                                <span>$800</span>
+                                <span>Php 10,000</span>
                             </div>
                         </div>
                         <div class="checklist-card">
                             <h4>Packing Checklist</h4>
                             <div class="checklist-item">
                                 <div class="checkbox"></div>
-                                <span>Passport</span>
+                                <span>Valid ID</span>
                             </div>
                             <div class="checklist-item">
                                 <div class="checkbox"></div>
-                                <span>Travel Adapter</span>
+                                <span>Sunscreen</span>
                             </div>
                             <div class="checklist-item">
                                 <div class="checkbox"></div>
-                                <span>Comfortable Shoes</span>
+                                <span>Surfboard rental</span>
                             </div>
                             <div class="checklist-item">
                                 <div class="checkbox"></div>
-                                <span>Camera</span>
+                                <span>GoPro/waterproof camera</span>
                             </div>
                         </div>
                     </div>
