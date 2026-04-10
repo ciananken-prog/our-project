@@ -1,0 +1,8 @@
+CREATE TABLE trips (
+  id INT AUTO_INCREMENT PRIMARY KEY,
+  destination VARCHAR(255),
+  date DATE,
+  budget INT,
+  style VARCHAR(100),
+  created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
